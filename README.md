@@ -1,5 +1,5 @@
 # Kaggle_DonorApplication_Screening
-Kaggle Competetion to predict whether or not a DonorsChoose.org project proposal submitted by a teacher will be approved.
+Kaggle Competition to predict whether or not a DonorsChoose.org project proposal submitted by a teacher will be approved.
 
 More focus is given on Preprocessing to extract maximum information from given training data.
 
